@@ -1,0 +1,19 @@
+.modal-container > h1 {
+  text-align: center;
+}
+
+.input-container {
+  margin: auto;
+}
+
+.name-input {
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}

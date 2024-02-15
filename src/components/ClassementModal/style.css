@@ -1,0 +1,27 @@
+.classement-container {
+  width: 400px;
+  height: 400px;
+  border-radius: 12px;
+  background-color: white;
+  box-shadow: D rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+}
+
+.modal-container > ol {
+  overflow: hidden;
+  overflow-y: auto;
+  height: 80%;
+  padding: 2rem;
+}
+
+.list-element {
+  margin-left: 1rem;
+  padding: 0.2rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+}
